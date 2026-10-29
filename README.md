@@ -13,7 +13,8 @@
 | Lab 3 | [SE_LAB3_PES2UG24CS483](https://github.com/Shreya-Bhat-2006/SE_LAB3_PES2UG24CS483) |
 | Lab 4 | [SE_LAB4_PES2UG24CS483](https://github.com/Shreya-Bhat-2006/SE_LAB4_PES2UG24CS483) |
 | Lab 5 | [SE_LAB5_PES2UG24CS483](https://github.com/Shreya-Bhat-2006/SE_LAB5_PES2UG24CS483) |
+| Lab 6 | [SE_LAB6_PES2UG24CS483](https://github.com/Shreya-Bhat-2006/SE_LAB6_PES2UG24CS483) |
 
 ## Description
 
-This repository serves as a central index for my five completed Software Engineering laboratory assignments. Each lab is maintained in its own GitHub repository, accessible through the links above.
+This repository serves as a central index for my six Software Engineering laboratory assignments. Each lab is maintained in its own GitHub repository, accessible through the links above.
